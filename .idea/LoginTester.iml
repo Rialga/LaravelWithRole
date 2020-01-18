@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/build/app" isTestSource="false" packagePrefix="App\" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/beyondcode/laravel-dump-server" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/erusev/parsedown" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/jakub-onderka/php-console-color" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/symfony/contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/build/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
